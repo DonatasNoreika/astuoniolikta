@@ -1,0 +1,5 @@
+2022-09-14 10:48:56,661:ERROR:__main__:Dalyba is nulio
+Traceback (most recent call last):
+  File "C:\Users\donor\PycharmProjects\astuoniolikta\dalyba.py", line 19, in dalyba
+    rezultatas = a / b
+ZeroDivisionError: division by zero
